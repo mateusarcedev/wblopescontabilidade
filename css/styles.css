@@ -377,7 +377,7 @@ a:hover {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #cdc6c6;
+	color: #fff;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -386,7 +386,7 @@ a:hover {
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link:focus,
 .navbar .nav-item .nav-link.active {
-	color: #cdc6c6;
+	color: #fff;
 }
 
 /* Dropdown Menu */
@@ -2018,12 +2018,10 @@ a:hover {
 }
 
 .LinksNav {
-	color: #fff;
 	font-size: 24px;
 	font-weight: bold;
 }
 
 .LinksNav a {
-	color: #fff;
 	font-size: 24px;
 }
